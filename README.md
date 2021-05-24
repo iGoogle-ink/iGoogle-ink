@@ -1,7 +1,8 @@
-### Hi 👋, I'm Jerry
+## Hi 👋 , I'm Jerry
 
 [![Github](https://img.shields.io/github/followers/iGoogle-ink?label=Follow&style=social)](https://github.com/iGoogle-ink)
-[![Github](https://img.shields.io/github/forks/iGoogle-ink/gopay?label=Fork&style=social)](https://github.com/iGoogle-ink/gopay/fork)
+
+[comment]: <> ([![Github]&#40;https://img.shields.io/github/forks/iGoogle-ink/gopay?label=Fork&style=social&#41;]&#40;https://github.com/iGoogle-ink/gopay/fork&#41;)
 
 I ❤ Open Source and [Go](https://golang.org).
 
